@@ -11,8 +11,10 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	They can let you try different versions (e.g. languages, difficulties) of the same program.
 
 How do the diagrams help you visualize the branch structure?
+	They show you where new branches branch off.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
